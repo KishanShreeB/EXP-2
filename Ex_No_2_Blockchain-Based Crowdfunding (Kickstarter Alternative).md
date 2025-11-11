@@ -64,11 +64,17 @@ contract Crowdfunding {
 Users can contribute ETH to the campaign.
 
 
+<img width="1920" height="886" alt="1" src="https://github.com/user-attachments/assets/682cb84d-9338-46fc-a0ae-91c470faaea2" />
+
+
 If the goal is met, the creator can withdraw funds.
 
 
+<img width="1920" height="888" alt="2" src="https://github.com/user-attachments/assets/36d06604-6e6d-41e7-9288-53c87dcd7be7" />
+
 If the goal is not met, contributors can claim a refund.
 
+<img width="1920" height="879" alt="3" src="https://github.com/user-attachments/assets/ab0951ff-295a-4c5d-afed-c042dd26aa42" />
 
 # High-Level Overview:
 Teaches decentralized fundraising.
@@ -77,3 +83,5 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus created a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met is executed successfully.
+
